@@ -89,28 +89,27 @@ text
 ### Option 1: Clone with Git
 
 ```powershell
-git clone https://github.com/yourusername/PowerClean.git
+git clone https://github.com/ParsaAzima/PowerClean.git
 cd PowerClean
-
+```
 Option 2: Download directly
 
 Download PowerClean.ps1 from the repository.
 Option 3: One-liner download (PowerShell)
-powershell
 
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/PowerClean/main/PowerClean.ps1" -OutFile "PowerClean.ps1"
-
+```powershell
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ParsaAzima/PowerClean/main/PowerClean.ps1" -OutFile "PowerClean.ps1"
+```
 Set Execution Policy (if needed)
-powershell
 
+```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
+```
 🚀 Usage Guide
 Run the script
-powershell
-
+```powershell
 .\PowerClean.ps1
-
+```
 Navigate the menu
 
     Type the number of the function you want to execute.
