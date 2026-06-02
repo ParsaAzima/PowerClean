@@ -245,8 +245,8 @@ You are free to use, modify, and distribute this script with attribution.
 👨‍💻 Contact
 
 Author: PARSA AZIMA
-GitHub: github.com/parsa-azima
-Project Link: github.com/parsa-azima/PowerClean
+GitHub: github.com/ParsaAzima
+Project Link: github.com/ParsaAzima/PowerClean
 
 For bugs, suggestions, or contributions, please open an issue on GitHub.
 ⭐ Support
