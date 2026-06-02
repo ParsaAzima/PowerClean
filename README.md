@@ -1,3 +1,4 @@
+<img width="1462" height="745" alt="Screenshot 2026-06-02 181641" src="https://github.com/user-attachments/assets/91ea949d-ca28-41f3-a01e-67a91066504d" />
 # 🧹 PowerClean – Advanced Windows System Cleaner
 
 **PowerClean** is a powerful, modular, and interactive PowerShell script designed to clean up temporary files, caches, logs, browser data, system dumps, and optimize Windows performance. Developed by **PARSA AZIMA**, this tool helps you recover disk space, improve system responsiveness, and remove digital footprints with ease.
